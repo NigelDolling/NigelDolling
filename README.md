@@ -4,20 +4,19 @@ Hello! 👋 I'm Nigel Dolling, a passionate developer interested in Data Science
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project/Job]
-- 🌱 I’m currently learning [Languages/Frameworks/Technologies]
-- 👯 I’m looking to collaborate on [Open Source Projects]
-- 💬 Ask me about [Your Skills/Expertise]
-- 📫 How to reach me: [Your Email/LinkedIn/Twitter]
+- 🔭 I’m currently working on Computational Drug Discovery projects on Neglected Tropical Diseases, Malaria and Type 2 Diabetes
+- 🌱 I’m currently learning SQL and Machine Learning
+- 👯 I’m looking to collaborate on Open Source Projects
+- 💬 Ask me about molecular docking, molecular dynamics simulation, pharmacophore generation, 
+- 📫 How to reach me: ndolling@noguchi.ug.edu.gh/ndolling5@gmail.com
 
 ## Languages and Technologies
 
 Here are some of the languages and technologies I work with:
 
-- **Programming Languages:** [Languages, e.g., Python, JavaScript, Java]
-- **Web Development:** [Frontend, Backend, Frameworks, Libraries]
-- **Data Science:** [Tools, Libraries, Techniques]
-- **Database:** [Databases you are familiar with]
+- **Programming Languages:** Python, R, SQL
+- **Data Science:** SQL, Jupyter Notebook
+- **Database:** Relational database
 - **Other Skills:** [Other skills you want to highlight]
 
 ## Projects
