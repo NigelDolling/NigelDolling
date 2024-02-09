@@ -32,7 +32,7 @@ Short description of Project 3.
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+![NIgel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
 ## Connect with Me
 
