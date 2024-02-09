@@ -7,7 +7,7 @@ Hello! 👋 I'm Nigel Dolling, a passionate developer interested in Data Science
 - 🔭 I’m currently working on Computational Drug Discovery projects on Neglected Tropical Diseases, Malaria and Type 2 Diabetes
 - 🌱 I’m currently learning SQL and Machine Learning
 - 👯 I’m looking to collaborate on Open Source Projects
-- 💬 Ask me about molecular docking, molecular dynamics simulation, pharmacophore generation, 
+- 💬 Ask me about molecular docking, molecular dynamics simulation, pharmacophore generation
 - 📫 How to reach me: ndolling@noguchi.ug.edu.gh/ndolling5@gmail.com
 
 ## Languages and Technologies
@@ -36,4 +36,4 @@ Short description of Project 3.
 
 ## Connect with Me
 
-[LinkedIn](Your LinkedIn Profile Link) | [Twitter](Your Twitter Profile Link) | [Website](Your Personal Website Link)
+[LinkedIn](https://www.linkedin.com/in/nigel-dolling/) | [Twitter](Your Twitter Profile Link) | [Website](Your Personal Website Link)
