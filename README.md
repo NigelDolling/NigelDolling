@@ -35,15 +35,6 @@ Here are some of the languages and technologies I work with:
 
 ## 🏆 GitHub Stats
 
-![Nigel's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
-### [Project 3 Name](Link to Project 3 Repository)
-Short description of Project 3.
-
-## GitHub Stats
-
 ![NIgel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NigelDolling&show_icons=true)
 
 ## Connect with Me
