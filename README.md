@@ -36,6 +36,4 @@ Here are some of the languages and technologies I work with:
 
 ![NIgel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NigelDolling&show_icons=true)
 
-## Connect with Me
 
-[LinkedIn](https://www.linkedin.com/in/nigel-dolling/) | [Twitter](Your Twitter Profile Link) | [Website](Your Personal Website Link)
